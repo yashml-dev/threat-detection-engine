@@ -1,0 +1,8 @@
+pyspark
+kafka-python
+redis
+psycopg[binary]
+python-dotenv
+pandas
+numpy
+scikit-learn
