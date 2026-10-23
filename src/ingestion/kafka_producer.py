@@ -62,4 +62,4 @@ def publish_transactions(count: int = 10) -> None:
 
 
 if __name__ == "__main__":
-    publish_transactions(count=80)
+    publish_transactions(count=20)
